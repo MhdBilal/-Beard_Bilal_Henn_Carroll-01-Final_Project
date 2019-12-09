@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_bsg_ptn_vjb">
+    <title>Glossary</title>
+    <shortdesc>This page contains a description of keywords used throughout the
+        document.</shortdesc>
+    <refbody> 
+        <section>
+            
+            <ul>
+                
+                <li>Share: to grant or give a share in —often used with with</li>
+                <li>Fullscreen: occupy the whole computer screen</li>
+                <li>Print: make physical copy of the document using a printer</li>
+                <li>Undo: go to a previous state</li>
+                <li>Clipboard: If you copy(Ctrl + C) content, it is being held on the “Clipboard” for you to paste(Ctrl + V) at your convenience </li>    
+                <li>Symbols: Something that stands for something else. A representation.</li>    
+                <li>Shape: A geometric figure such as a square, triangle, or rectangle These can all be inserted into a OneNote page.</li>    
+                <li>Ink to Text: Converting drawn words into typed text.</li>    
+                <li>Pen: One of the drawing tools that can be used in OneNote.</li>    
+                <li>Table: A container that can hold data in an organized manner</li>    
+                <li>Pages: An area in OneNote that holds all content. Multiple paged can be open at once.</li>    
+                <li>Notebook: A notebook can be created in OneNote to hold multiple pages that may or may not be related to each other for ease of access.</li>    
+                <li>Section: A smaller area on a page that can hold certain content. A page can be broken up into multiple sections</li>    
+                <li>Search: OneNote allows users to search for specific content using a search bar.</li>
+                <li>Audio: Audio clips can be inserted into a page in OneNote.</li>    
+                <li>File: You can save a OneNote file for later use at any time.</li>    
+                <li>Printout: Users can print out their notes to have a physical copy of them if need be. </li>    
+                <li>Meetings: Users can organize and take notes for a meeting in OneNote.</li>    
+                <li>Math: OneNote is able to solve either typed or drawn math problems</li>    
+                <li>Draw Notes: OneNote provides the option to draw notes rather than type them</li>    
+                <li>Clipping: OneNote provides the option to clip an area from another page and insert it into a page.</li>    
+                <li>Date and Time: OneNote gives the option to insert the date and/or time onto a page.</li>    
+                <li>Stickers: There are many preset stickers that can be inserted into a page.</li>    
+                <li>Immersive Reader: a full screen reading experience to increase readability of content in OneNote documents.</li>    
+                <li>Help: The help menu can be opened at any time to help solve a problem a user may be having.</li>    
+                <li>Translate: Text can be translated to another language in OneNote</li>    
+                <li>Zoom: A page and be zoomed in and out for ease of use/work.</li>    
+                <li>Lines: Lines can be inserted into pages to divide sections of to create anything that one desires.</li>    
+                <li>Replay: A drawing can be replayed after it is drawn if a user desires.</li>    
+                
+            </ul>
+        </section>
+    </refbody>
+
+</reference>

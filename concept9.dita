@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_pens">
+    <title>Using Pens</title>
+    <conbody>
+        <p>This section will explain how to use pens in OneNote.</p>
+        <image href="images/9.jpg" placement="break"><alt>Pens in OneNote</alt></image>
+        <object width="640" height="360" 
+            data="https://www.youtube.com/embed/LTb5WWRr4nQ"> <param name="src" 
+                value="https://www.youtube.com/embed/LTb5WWRr4nQ"/> <param name="movie" 
+                    value="https://www.youtube.com/embed/LTb5WWRr4nQ?rel=0"/> <param 
+                        name="allowFullScreen" value="true"/> <param name="allowscriptaccess" 
+                            value="always"/> </object>
+        
+        
+        
+        
+        
+    </conbody>
+    <related-links>
+        <link href="referenceDraw.dita"/>
+        <link href="concept7.dita"/>
+        <link href="glossary.dita"/>
+    </related-links>
+</concept>
